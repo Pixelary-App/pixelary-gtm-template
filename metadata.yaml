@@ -1,0 +1,15 @@
+homepage: "https://pixelary.app"
+documentation: "https://pixelary.app/docs/google-tag-manager"
+versions:
+  # Latest version first. Add each new release at the top of this list.
+  #
+  # `sha` must be the full 40-character SHA of a commit in this repository
+  # that contains template.tpl exactly as you want it published (usually the
+  # commit that added or changed template.tpl). A commit cannot contain its own
+  # SHA, so commit template.tpl first, copy that commit's SHA here, then commit
+  # this file separately. Never rewrite history: every listed SHA must stay
+  # reachable on the main branch.
+  #
+  # PLACEHOLDER: replace before submitting to the Community Template Gallery.
+  - sha: "0000000000000000000000000000000000000000"
+    changeNotes: Initial release.
