@@ -9,7 +9,5 @@ versions:
   # SHA, so commit template.tpl first, copy that commit's SHA here, then commit
   # this file separately. Never rewrite history: every listed SHA must stay
   # reachable on the main branch.
-  #
-  # PLACEHOLDER: replace before submitting to the Community Template Gallery.
-  - sha: "0000000000000000000000000000000000000000"
+  - sha: "2f08f5374c04597c245c057e760f33e67096bc3c"
     changeNotes: Initial release.
